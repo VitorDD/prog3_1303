@@ -1,0 +1,15 @@
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\bin\Debug\net7.0\NumeroDecimal.exe
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\bin\Debug\net7.0\NumeroDecimal.deps.json
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\bin\Debug\net7.0\NumeroDecimal.runtimeconfig.json
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\bin\Debug\net7.0\NumeroDecimal.dll
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\bin\Debug\net7.0\NumeroDecimal.pdb
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.csproj.AssemblyReference.cache
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.AssemblyInfoInputs.cache
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.AssemblyInfo.cs
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.dll
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\refint\NumeroDecimal.dll
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.pdb
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\NumeroDecimal.genruntimeconfig.cache
+C:\Users\SUPORTE\Documents\Prog 2023_3\NumeroDecimal\obj\Debug\net7.0\ref\NumeroDecimal.dll

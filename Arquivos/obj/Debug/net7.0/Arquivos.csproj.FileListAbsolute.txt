@@ -1,0 +1,45 @@
+C:\Users\408430\Documents\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\Users\408430\Documents\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\Users\408430\Documents\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\Users\408430\Documents\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\Users\408430\Documents\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\Users\408430\Documents\Prog3_23\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.dll
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.exe
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.dll
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+D:\Faculdade\Programação 1\Prog3_23\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\Prog.23.2\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll
